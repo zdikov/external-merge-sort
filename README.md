@@ -2,7 +2,7 @@
 
 ## Параметры запуска:
 ```sh
-./excutable table_name sorting_column sorting_type [memory_size] [K]
+./executable table_name sorting_column sorting_type [memory_size] [K]
 ```
 
 - `table_name`  - имя таблицы в формате csv.
